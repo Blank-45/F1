@@ -1,0 +1,53 @@
+season,constructor_id,constructor,nationality,position,points,wins
+2003,ferrari,Ferrari,Italian,1,158,8
+2003,williams,Williams,British,2,144,4
+2003,mclaren,McLaren,British,3,142,2
+2003,renault,Renault,French,4,88,1
+2003,bar,BAR,British,5,26,0
+2003,sauber,Sauber,Swiss,6,19,0
+2003,jaguar,Jaguar,British,7,18,0
+2003,toyota,Toyota,Japanese,8,16,0
+2003,jordan,Jordan,Irish,9,13,1
+2003,minardi,Minardi,Italian,10,0,0
+2008,ferrari,Ferrari,Italian,1,172,8
+2008,mclaren,McLaren,British,2,151,6
+2008,bmw_sauber,BMW Sauber,German,3,135,1
+2008,renault,Renault,French,4,80,2
+2008,toyota,Toyota,Japanese,5,56,0
+2008,toro_rosso,Toro Rosso,Italian,6,39,1
+2008,red_bull,Red Bull,Austrian,7,29,0
+2008,williams,Williams,British,8,26,0
+2008,honda,Honda,Japanese,9,14,0
+2008,force_india,Force India,Indian,10,0,0
+2008,super_aguri,Super Aguri,Japanese,11,0,0
+2013,red_bull,Red Bull,Austrian,1,596,13
+2013,mercedes,Mercedes,German,2,360,3
+2013,ferrari,Ferrari,Italian,3,354,2
+2013,lotus_f1,Lotus F1,British,4,315,1
+2013,mclaren,McLaren,British,5,122,0
+2013,force_india,Force India,Indian,6,77,0
+2013,sauber,Sauber,Swiss,7,57,0
+2013,toro_rosso,Toro Rosso,Italian,8,33,0
+2013,williams,Williams,British,9,5,0
+2013,marussia,Marussia,Russian,10,0,0
+2013,caterham,Caterham,Malaysian,11,0,0
+2017,mercedes,Mercedes,German,1,668,12
+2017,ferrari,Ferrari,Italian,2,522,5
+2017,red_bull,Red Bull,Austrian,3,368,3
+2017,force_india,Force India,Indian,4,187,0
+2017,williams,Williams,British,5,83,0
+2017,renault,Renault,French,6,57,0
+2017,toro_rosso,Toro Rosso,Italian,7,53,0
+2017,haas,Haas F1 Team,American,8,47,0
+2017,mclaren,McLaren,British,9,30,0
+2017,sauber,Sauber,Swiss,10,5,0
+2022,red_bull,Red Bull,Austrian,1,759,17
+2022,ferrari,Ferrari,Italian,2,554,4
+2022,mercedes,Mercedes,German,3,515,1
+2022,alpine,Alpine F1 Team,French,4,173,0
+2022,mclaren,McLaren,British,5,159,0
+2022,alfa,Alfa Romeo,Swiss,6,55,0
+2022,aston_martin,Aston Martin,British,7,55,0
+2022,haas,Haas F1 Team,American,8,37,0
+2022,alphatauri,AlphaTauri,Italian,9,35,0
+2022,williams,Williams,British,10,8,0
